@@ -8,4 +8,7 @@ You want to provide your students with some functions that will help them calcul
     The equation to convert Fahrenheit to Celsius is:<br>
     <code>Temp (C) = (Temp (F) - 32) * 5/9</code></li>
     <li>Define a variable <code>f100_in_celsius</code> and set it equal to the value of <code>f_to_c</code> with <code>100</code> as an input.</li>
+    <li>Write a function called <code>c_to_f</code> that takes an input <code>c_temp</code>, a temperature in Celsius, and converts it to <code>f_temp</code>, that temperature in Fahrenheit.<br>
+    The equation to convert Celsius to Fahrenheit is:<br>
+    <code>Temp (F) = Temp (C) * (9/5) + 32</code></li>
 </ol>
