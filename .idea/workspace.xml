@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2aae4bda-9004-41e2-bcd0-c593529db697" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574172938168</updated>
       <workItem from="1574172939413" duration="4534000" />
-      <workItem from="1574187211698" duration="131000" />
+      <workItem from="1574187211698" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of the script.py source file.">
       <created>1574173447941</created>
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574186979502</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Definition of a variable 'c0_in_fahrenheit' and set it equal to the value of 'c_to_f' with '0' as an input.">
+      <created>1574187404481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574187404481</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +131,7 @@
     <MESSAGE value="Creation of a function called 'f_to_c' that takes an input 'f_temp', a temperature in Fahrenheit, and converts it to 'c_temp', that temperature in Celsius." />
     <MESSAGE value="Definition of a variable 'f100_in_celsius' and set it equal to the value of 'f_to_c' with '100' as an input." />
     <MESSAGE value="Creation of a function called 'c_to_f' that takes an input 'c_temp', a temperature in Celsius, and converts it to 'f_temp', that temperature in Fahrenheit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creation of a function called 'c_to_f' that takes an input 'c_temp', a temperature in Celsius, and converts it to 'f_temp', that temperature in Fahrenheit." />
+    <MESSAGE value="Definition of a variable 'c0_in_fahrenheit' and set it equal to the value of 'c_to_f' with '0' as an input." />
+    <option name="LAST_COMMIT_MESSAGE" value="Definition of a variable 'c0_in_fahrenheit' and set it equal to the value of 'c_to_f' with '0' as an input." />
   </component>
 </project>
