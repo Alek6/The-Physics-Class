@@ -11,4 +11,5 @@ You want to provide your students with some functions that will help them calcul
     <li>Write a function called <code>c_to_f</code> that takes an input <code>c_temp</code>, a temperature in Celsius, and converts it to <code>f_temp</code>, that temperature in Fahrenheit.<br>
     The equation to convert Celsius to Fahrenheit is:<br>
     <code>Temp (F) = Temp (C) * (9/5) + 32</code></li>
+    <li>Define a variable <code>c0_in_fahrenheit</code> and set it equal to the value of <code>c_to_f</code> with <code>0</code> as an input.</li>
 </ol>
