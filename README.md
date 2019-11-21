@@ -20,4 +20,9 @@ You want to provide your students with some functions that will help them calcul
     <li>Test <code>get_force</code> by calling it with the variables <code>train_mass</code> and <code>train_acceleration</code>.<br>
     Save the result to a variable called <code>train_force</code> and print it out.</li>
     <li>Print the string “The GE train supplies X Newtons of force.”, with <code>X</code> replaced by <code>train_force</code>.</li>
+    <li>Define a function called <code>get_energy</code> that takes in <code>mass</code> and <code>c</code>.<br><br>
+    <ul>
+        <li><code>c</code> is a constant that is usually set to the speed of light, which is roughly 3 x 10^8. Set <code>c</code> to have a default value of <code>3*10**8</code>.<br><br></li>
+        <li><code>get_energy</code> should return <code>mass</code> multiplied by <code>c</code> squared.</li>
+    </ul>
 </ol>
