@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2aae4bda-9004-41e2-bcd0-c593529db697" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Aleksej Petricig &lt;minen.petricig@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Tq1iXaulxUtcpNxlkAEvbgE6Rp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aae4bda-9004-41e2-bcd0-c593529db697" name="Default Changelist" comment="" />
+      <created>1574172938168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574172938168</updated>
+      <workItem from="1574172939413" duration="4534000" />
+      <workItem from="1574187211698" duration="2993000" />
+    </task>
+    <task id="LOCAL-00001" summary="Creation of the script.py source file.">
+      <created>1574173447941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574173447941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creation of the 'temperature-turn-up' development branch.">
+      <created>1574174621576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574174621576</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creation of a function called 'f_to_c' that takes an input 'f_temp', a temperature in Fahrenheit, and converts it to 'c_temp', that temperature in Celsius.">
+      <created>1574176339212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574176339212</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Definition of a variable 'f100_in_celsius' and set it equal to the value of 'f_to_c' with '100' as an input.">
+      <created>1574178177774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574178177774</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creation of a function called 'c_to_f' that takes an input 'c_temp', a temperature in Celsius, and converts it to 'f_temp', that temperature in Fahrenheit.">
+      <created>1574186979502</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574186979502</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Definition of a variable 'c0_in_fahrenheit' and set it equal to the value of 'c_to_f' with '0' as an input.">
+      <created>1574187404481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574187404481</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Definition of a function called 'get_force' that takes in mass and acceleration.&#10;It should return mass multiplied by acceleration.">
+      <created>1574330169632</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574330169632</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Testing of 'get_force' by calling it with the variables 'train_mass' and 'train_acceleration'.&#10;Save the result to a variable called 'train_force' and print it out.">
+      <created>1574330544286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574330544286</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Printing out the string “The GE train supplies X Newtons of force.”, with X replaced by 'train_force'.">
+      <created>1574330876242</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574330876242</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Definition of a function called 'get_energy' that takes in 'mass' and 'c'.&#10;&#10;- 'c' is a constant that is usually set to the speed of light, which is roughly 3 x 10^8. Setting of c to have a default value of 3*10**8.&#10;&#10;- 'get_energy' should return mass multiplied by c squared.">
+      <created>1574331390060</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574331390060</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Testing of 'get_energy' by using it on 'bomb_mass', with the default value of 'c'.&lt;br&gt;&#10;Save the result to a variable called 'bomb_energy'.">
+      <created>1574331704229</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574331704229</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creation of the script.py source file." />
+    <MESSAGE value="Creation of the 'temperature-turn-up' development branch." />
+    <MESSAGE value="Creation of a function called 'f_to_c' that takes an input 'f_temp', a temperature in Fahrenheit, and converts it to 'c_temp', that temperature in Celsius." />
+    <MESSAGE value="Definition of a variable 'f100_in_celsius' and set it equal to the value of 'f_to_c' with '100' as an input." />
+    <MESSAGE value="Creation of a function called 'c_to_f' that takes an input 'c_temp', a temperature in Celsius, and converts it to 'f_temp', that temperature in Fahrenheit." />
+    <MESSAGE value="Definition of a variable 'c0_in_fahrenheit' and set it equal to the value of 'c_to_f' with '0' as an input." />
+    <MESSAGE value="Definition of a function called 'get_force' that takes in mass and acceleration.&#10;It should return mass multiplied by acceleration." />
+    <MESSAGE value="Testing of 'get_force' by calling it with the variables 'train_mass' and 'train_acceleration'.&#10;Save the result to a variable called 'train_force' and print it out." />
+    <MESSAGE value="Printing out the string “The GE train supplies X Newtons of force.”, with X replaced by 'train_force'." />
+    <MESSAGE value="Definition of a function called 'get_energy' that takes in 'mass' and 'c'.&#10;&#10;- 'c' is a constant that is usually set to the speed of light, which is roughly 3 x 10^8. Setting of c to have a default value of 3*10**8.&#10;&#10;- 'get_energy' should return mass multiplied by c squared." />
+    <MESSAGE value="Testing of 'get_energy' by using it on 'bomb_mass', with the default value of 'c'.&lt;br&gt;&#10;Save the result to a variable called 'bomb_energy'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing of 'get_energy' by using it on 'bomb_mass', with the default value of 'c'.&lt;br&gt;&#10;Save the result to a variable called 'bomb_energy'." />
+  </component>
+</project>
