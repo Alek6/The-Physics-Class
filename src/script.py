@@ -11,7 +11,7 @@ f100_in_censius = f_to_c(100)
 
 
 def c_to_f(c_temp):
-    f_temp = c_temp * (9/5) + 32
+    f_temp = c_temp * (9 / 5) + 32
     return f_temp
 
 
@@ -23,3 +23,6 @@ def get_force(mass, acceleration):
 
 
 train_force = get_force(train_mass, train_acceleration)
+
+
+print("the GE train supplies " + str(train_force) + " Newtons of force.")

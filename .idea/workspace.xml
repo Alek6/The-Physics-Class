@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574172938168</updated>
       <workItem from="1574172939413" duration="4534000" />
-      <workItem from="1574187211698" duration="1539000" />
+      <workItem from="1574187211698" duration="1863000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of the script.py source file.">
       <created>1574173447941</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574330169632</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Testing of 'get_force' by calling it with the variables 'train_mass' and 'train_acceleration'.&#10;Save the result to a variable called 'train_force' and print it out.">
+      <created>1574330544286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574330544286</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +149,7 @@
     <MESSAGE value="Creation of a function called 'c_to_f' that takes an input 'c_temp', a temperature in Celsius, and converts it to 'f_temp', that temperature in Fahrenheit." />
     <MESSAGE value="Definition of a variable 'c0_in_fahrenheit' and set it equal to the value of 'c_to_f' with '0' as an input." />
     <MESSAGE value="Definition of a function called 'get_force' that takes in mass and acceleration.&#10;It should return mass multiplied by acceleration." />
-    <option name="LAST_COMMIT_MESSAGE" value="Definition of a function called 'get_force' that takes in mass and acceleration.&#10;It should return mass multiplied by acceleration." />
+    <MESSAGE value="Testing of 'get_force' by calling it with the variables 'train_mass' and 'train_acceleration'.&#10;Save the result to a variable called 'train_force' and print it out." />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing of 'get_force' by calling it with the variables 'train_mass' and 'train_acceleration'.&#10;Save the result to a variable called 'train_force' and print it out." />
   </component>
 </project>

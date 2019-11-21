@@ -19,4 +19,5 @@ You want to provide your students with some functions that will help them calcul
     It should return mass multiplied by acceleration.</li>
     <li>Test <code>get_force</code> by calling it with the variables <code>train_mass</code> and <code>train_acceleration</code>.<br>
     Save the result to a variable called <code>train_force</code> and print it out.</li>
+    <li>Print the string “The GE train supplies X Newtons of force.”, with <code>X</code> replaced by <code>train_force</code>.</li>
 </ol>
