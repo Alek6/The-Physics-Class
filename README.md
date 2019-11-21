@@ -14,3 +14,7 @@ You want to provide your students with some functions that will help them calcul
     <li>Define a variable <code>c0_in_fahrenheit</code> and set it equal to the value of <code>c_to_f</code> with <code>0</code> as an input.</li>
 </ol>
 <h2>Use the Force</h2>
+<ol>
+    <li>Define a function called <code>get_force</code> that takes in mass and acceleration.<br>
+    It should return mass multiplied by acceleration.</li>
+</ol>
