@@ -27,4 +27,5 @@ You want to provide your students with some functions that will help them calcul
     </ul>
     <li>Test <code>get_energy</code> by using it on <code>bomb_mass</code>, with the default value of <code>c</code>.<br>
     Save the result to a variable called <code>bomb_energy</code>.</li>
+    <li>Print the string “A 1kg bomb supplies X Joules.”, with <code>X</code> replaced by <code>bomb_energy</code>.</li>
 </ol>

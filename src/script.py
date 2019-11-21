@@ -35,3 +35,5 @@ def get_energy(mass, c=3*10**8):
 
 bomb_energy = get_energy(bomb_mass, c=3*10**8)
 
+
+print("A 1kg bomb supplies " + str(bomb_energy) + " Joules.")
