@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2aae4bda-9004-41e2-bcd0-c593529db697" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574172938168</updated>
       <workItem from="1574172939413" duration="4534000" />
-      <workItem from="1574187211698" duration="664000" />
+      <workItem from="1574187211698" duration="937000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of the script.py source file.">
       <created>1574173447941</created>
