@@ -25,4 +25,6 @@ You want to provide your students with some functions that will help them calcul
         <li><code>c</code> is a constant that is usually set to the speed of light, which is roughly 3 x 10^8. Set <code>c</code> to have a default value of <code>3*10**8</code>.<br><br></li>
         <li><code>get_energy</code> should return <code>mass</code> multiplied by <code>c</code> squared.</li>
     </ul>
+    <li>Test <code>get_energy</code> by using it on <code>bomb_mass</code>, with the default value of <code>c</code>.<br>
+    Save the result to a variable called <code>bomb_energy</code>.</li>
 </ol>

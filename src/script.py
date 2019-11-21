@@ -1,5 +1,6 @@
 train_mass = 22680
 train_acceleration = 10
+bomb_mass = 1
 
 
 def f_to_c(f_temp):
@@ -30,4 +31,7 @@ print("the GE train supplies " + str(train_force) + " Newtons of force.")
 
 def get_energy(mass, c=3*10**8):
     return mass * c
+
+
+bomb_energy = get_energy(bomb_mass, c=3*10**8)
 

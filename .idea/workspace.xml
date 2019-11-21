@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574172938168</updated>
       <workItem from="1574172939413" duration="4534000" />
-      <workItem from="1574187211698" duration="2360000" />
+      <workItem from="1574187211698" duration="2669000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of the script.py source file.">
       <created>1574173447941</created>
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574330876242</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Definition of a function called 'get_energy' that takes in 'mass' and 'c'.&#10;&#10;- 'c' is a constant that is usually set to the speed of light, which is roughly 3 x 10^8. Setting of c to have a default value of 3*10**8.&#10;&#10;- 'get_energy' should return mass multiplied by c squared.">
+      <created>1574331390060</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574331390060</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +165,7 @@
     <MESSAGE value="Definition of a function called 'get_force' that takes in mass and acceleration.&#10;It should return mass multiplied by acceleration." />
     <MESSAGE value="Testing of 'get_force' by calling it with the variables 'train_mass' and 'train_acceleration'.&#10;Save the result to a variable called 'train_force' and print it out." />
     <MESSAGE value="Printing out the string “The GE train supplies X Newtons of force.”, with X replaced by 'train_force'." />
-    <option name="LAST_COMMIT_MESSAGE" value="Printing out the string “The GE train supplies X Newtons of force.”, with X replaced by 'train_force'." />
+    <MESSAGE value="Definition of a function called 'get_energy' that takes in 'mass' and 'c'.&#10;&#10;- 'c' is a constant that is usually set to the speed of light, which is roughly 3 x 10^8. Setting of c to have a default value of 3*10**8.&#10;&#10;- 'get_energy' should return mass multiplied by c squared." />
+    <option name="LAST_COMMIT_MESSAGE" value="Definition of a function called 'get_energy' that takes in 'mass' and 'c'.&#10;&#10;- 'c' is a constant that is usually set to the speed of light, which is roughly 3 x 10^8. Setting of c to have a default value of 3*10**8.&#10;&#10;- 'get_energy' should return mass multiplied by c squared." />
   </component>
 </project>
