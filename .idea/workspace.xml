@@ -21,6 +21,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Aleksej &lt;minen.petricig@gmail.com&gt;" />
         <option value="Aleksej Petricig &lt;minen.petricig@gmail.com&gt;" />
       </list>
     </option>
@@ -68,7 +69,7 @@
       <updated>1574172938168</updated>
       <workItem from="1574172939413" duration="4534000" />
       <workItem from="1574187211698" duration="2993000" />
-      <workItem from="1579191595836" duration="1641000" />
+      <workItem from="1579191595836" duration="1995000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of the script.py source file.">
       <created>1574173447941</created>
@@ -147,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574331704229</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add the function's contracts.">
+      <created>1579193419265</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579193419265</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,9 +189,18 @@
     <MESSAGE value="Printing out the string “The GE train supplies X Newtons of force.”, with X replaced by 'train_force'." />
     <MESSAGE value="Definition of a function called 'get_energy' that takes in 'mass' and 'c'.&#10;&#10;- 'c' is a constant that is usually set to the speed of light, which is roughly 3 x 10^8. Setting of c to have a default value of 3*10**8.&#10;&#10;- 'get_energy' should return mass multiplied by c squared." />
     <MESSAGE value="Testing of 'get_energy' by using it on 'bomb_mass', with the default value of 'c'.&lt;br&gt;&#10;Save the result to a variable called 'bomb_energy'." />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing of 'get_energy' by using it on 'bomb_mass', with the default value of 'c'.&lt;br&gt;&#10;Save the result to a variable called 'bomb_energy'." />
+    <MESSAGE value="Add the function's contracts." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the function's contracts." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="252" y="145" key="#Deployment" timestamp="1579193409337">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="252" y="145" key="#Deployment/0.23.1440.803@0.23.1440.803" timestamp="1579193409337" />
+    <state x="151" y="23" width="1021" height="803" key="CommitChangelistDialog2" timestamp="1579193419070">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="151" y="23" width="1021" height="803" key="CommitChangelistDialog2/0.23.1440.803@0.23.1440.803" timestamp="1579193419070" />
     <state x="129" y="103" key="SettingsEditor" timestamp="1579192625456">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
